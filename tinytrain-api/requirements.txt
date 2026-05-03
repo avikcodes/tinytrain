@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+python-dotenv
+python-multipart
+requests
+websockets
+torch
+torchvision
