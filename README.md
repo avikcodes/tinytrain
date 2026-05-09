@@ -389,7 +389,7 @@ signs of severe overfitting. Consider increasing hidden size to
 
 This is **Project 7 of 30** in my open-source build sprint — building 30 open-source AI and ML tools from March to December 2026.
 
-Follow on X: [@avikcodes](https://x.com/avikcodes)
+Follow on X: [@Avikzx]https://x.com/Avikzx)
 
 All projects: [github.com/avikcodes](https://github.com/avikcodes)
 
